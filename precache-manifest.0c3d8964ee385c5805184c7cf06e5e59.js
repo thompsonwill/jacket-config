@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3483fc66b407879dddbd1711d1569d6d",
+    "revision": "27fba54447c8b99e45783539ea721b93",
     "url": "/jacket-config/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jacket-config/static/css/2.220ccb42.chunk.css"
   },
   {
-    "revision": "19c3b1f3ebc162134e6d",
-    "url": "/jacket-config/static/css/main.c5e10ca1.chunk.css"
+    "revision": "696cd6e3cc100533d1d0",
+    "url": "/jacket-config/static/css/main.c7a49e4c.chunk.css"
   },
   {
     "revision": "9f6608bb374598f8c8d9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jacket-config/static/js/2.c8fb5f2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19c3b1f3ebc162134e6d",
+    "revision": "696cd6e3cc100533d1d0",
     "url": "/jacket-config/static/js/main.17fb4b89.chunk.js"
   },
   {
