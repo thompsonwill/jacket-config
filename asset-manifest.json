@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jacket-config/static/css/main.c5e10ca1.chunk.css",
-    "main.js": "/jacket-config/static/js/main.195dee3c.chunk.js",
-    "main.js.map": "/jacket-config/static/js/main.195dee3c.chunk.js.map",
+    "main.js": "/jacket-config/static/js/main.17fb4b89.chunk.js",
+    "main.js.map": "/jacket-config/static/js/main.17fb4b89.chunk.js.map",
     "runtime-main.js": "/jacket-config/static/js/runtime-main.9bd332df.js",
     "runtime-main.js.map": "/jacket-config/static/js/runtime-main.9bd332df.js.map",
     "static/css/2.220ccb42.chunk.css": "/jacket-config/static/css/2.220ccb42.chunk.css",
     "static/js/2.c8fb5f2c.chunk.js": "/jacket-config/static/js/2.c8fb5f2c.chunk.js",
     "static/js/2.c8fb5f2c.chunk.js.map": "/jacket-config/static/js/2.c8fb5f2c.chunk.js.map",
     "index.html": "/jacket-config/index.html",
-    "precache-manifest.5e1141df43114f18c1711127df116534.js": "/jacket-config/precache-manifest.5e1141df43114f18c1711127df116534.js",
+    "precache-manifest.a40737c038c80a2418adf2244ed75a67.js": "/jacket-config/precache-manifest.a40737c038c80a2418adf2244ed75a67.js",
     "service-worker.js": "/jacket-config/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/jacket-config/static/css/2.220ccb42.chunk.css.map",
     "static/css/main.c5e10ca1.chunk.css.map": "/jacket-config/static/css/main.c5e10ca1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.220ccb42.chunk.css",
     "static/js/2.c8fb5f2c.chunk.js",
     "static/css/main.c5e10ca1.chunk.css",
-    "static/js/main.195dee3c.chunk.js"
+    "static/js/main.17fb4b89.chunk.js"
   ]
 }
